@@ -1,3 +1,3 @@
 # ZadesMultiTool
 Simple batch file multi tool.
-As always some shit is pasted.
+Idk base is from some open source script.
